@@ -1,3 +1,3 @@
 # Build your say_hello method here
 
-say_hello("Callum")
+say_hello(name = "Ruby programmer")
